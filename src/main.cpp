@@ -90,5 +90,5 @@ int main() {
   VectorN r = performGradientDescent(samples, VectorN {{0.5, 1.5, 1.0, 0.1, -0.1}});
   cout << r << endl;
 
-	return 0;
+  return 0;
 }
